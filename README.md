@@ -1,4 +1,4 @@
-# Project Sequoyah
+# Sequoyah Projext
 
 https://en.wikipedia.org/wiki/Sequoyah
 
