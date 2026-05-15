@@ -1,4 +1,4 @@
-# Sequoyah Projext
+# Sequoyah Project
 
 https://education.nationalgeographic.org/resource/sequoyah-and-creation-cherokee-syllabary/
 
