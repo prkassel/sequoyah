@@ -29,10 +29,10 @@ The project implements **Instruction Hardening** to evolve without manual prompt
 
 ### 2. High Utility Density
 
-The aim is AI that works on hardware most people already own, without a cloud account:
+The aim is AI that works on hardware within reach of a typical chatbot user, without a cloud account:
 
 * **Local Inference:** Optimized for Small Language Models (SLMs) such as Qwen 2.5 ($3\text{B}$ parameters) or Llama 3.2 ($3\text{B}$–$8\text{B}$ parameters).
-* **E-Waste Compatibility:** Targeted for low-power hardware like a Raspberry Pi 5 or a 2017 MacBook Pro to ensure accessibility as a universal utility.
+* **E-Waste Compatibility:** Targeted for low-power hardware like a Raspberry Pi 5, 2017 MacBook Pro or a realistic baseline, to ensure accessibility as a universal utility.
 * **Agentic Firmware:** Runs on a minimalist Just Enough Operating System (JeOS) like Alpine Linux ($<100\text{MB}$) to eliminate telemetry and GUI overhead.
 
 
