@@ -36,7 +36,7 @@ The system operates on a clear governance hierarchy to ensure the user remains i
 
 The number one reason people fail with AI tools is that they start a blank session with no structure and expect the model to read their mind. Sequoyah should make it trivially easy to build the workspace that makes a model useful.
 
-* **Project Onboarding:** Walk a new user through defining their project — what it does, what tools and languages are involved, what the model should and shouldn't do. Output a structured configuration file that the PA reads on every session start.
+* **Project Onboarding:** A new user should be able to describe their project in their own words — what it is, how they work, and what they expect from the model — and get a workspace that's ready to use from the first session.
 * **Constraint Templates:** Pre-built starting points for common use cases (writing, coding, data analysis, creative work) that encode the patterns that experienced users have already discovered. Not generic prompt libraries — opinionated constraints that prevent the most common failure modes.
 * **Plain Language:** The configuration interface should never require the user to understand prompt engineering, token budgets, or model internals. If the user can describe what they want in their own words, the system should translate that into effective model constraints.
 
