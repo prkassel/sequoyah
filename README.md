@@ -1,5 +1,7 @@
 # Project Sequoyah
 
+https://en.wikipedia.org/wiki/Sequoyah
+
 Born around 1770, Sequoyah was a self-taught polymath—a silversmith, blacksmith, warrior, and linguist who never attended school and spoke no English. Resourceful by necessity, he built his own blacksmith tools, forge, and bellows to support his trade. After witnessing the strategic disadvantage of those without a written language during the War of 1812, he spent years refining an 85-character syllabary. His work achieved nearly 100% literacy for the Cherokee Nation within 25 years and eventually inspired 21 other scripts for 65 languages worldwide.
 
 Project Sequoyah is an open-source initiative to return creative and financial sovereignty to the individual through "Non-Custodial AI" — showing that capable AI is already within reach for anyone, without subscriptions, API costs, or the environmental burden of routing every task through a data center.
