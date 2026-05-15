@@ -1,6 +1,7 @@
 # Sequoyah Projext
 
 https://en.wikipedia.org/wiki/Sequoyah
+https://education.nationalgeographic.org/resource/sequoyah-and-creation-cherokee-syllabary/
 
 Born around 1770, Sequoyah was a self-taught polymath—a silversmith, blacksmith, warrior, and linguist who never attended school and spoke no English. Resourceful by necessity, he built his own blacksmith tools, forge, and bellows to support his trade. After witnessing the strategic disadvantage of those without a written language during the War of 1812, he spent years refining an 85-character syllabary. His work achieved nearly 100% literacy for the Cherokee Nation within 25 years and eventually inspired 21 other scripts for 65 languages worldwide.
 
