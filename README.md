@@ -14,7 +14,7 @@ The system should operate on a clear governance hierarchy to ensure the user rem
 
 * **The Director (User):** Responsible for high-level intent, vision, and final approval.
 * **The Production Assistant (PA):** A stateless execution engine that provides the "recipe" (logic) while the user's local hardware does the "cooking" (execution).
-* **The State Gate:** A "Zero-Chat UX" protocol that halts execution to request missing variables via interactive fields, eliminating "hallucination chatter" and unnecessary cloud costs.
+* **The State Gate:** A "Minimum-Required-Chat UX" protocol that halts execution to request missing variables via interactive fields, eliminating "hallucination chatter" and unnecessary cloud costs.
 
 
 
