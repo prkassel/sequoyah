@@ -34,13 +34,3 @@ The aim is AI that works on hardware within reach of a typical chatbot user, wit
 * **Local Inference:** Optimized for Small Language Models (SLMs) such as Qwen 2.5 ($3\text{B}$ parameters) or Llama 3.2 ($3\text{B}$–$8\text{B}$ parameters).
 * **E-Waste Compatibility:** Targeted for low-power hardware like a Raspberry Pi 5, 2017 MacBook Pro or a realistic baseline, to ensure accessibility as a universal utility.
 * **Agentic Firmware:** Runs on a minimalist Just Enough Operating System (JeOS) like Alpine Linux ($<100\text{MB}$) to eliminate telemetry and GUI overhead.
-
-
-
-## Implementation Status
-
-* **Milestone 1:** Sovereign Bridge (Local Ollama deployment).
-* **Milestone 2:** Placeholder Protocol (Zero-Chat UX/State Gate).
-* **Milestone 3:** Heuristic Log (Observability via Delta tracking).
-* **Milestone 4:** Instruction Hardening (Synthesis of Protocol Updates).
-* **Milestone 5:** Sovereign Skill (Execution integration, e.g., FFmpeg/DAW mapping).
