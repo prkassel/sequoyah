@@ -4,7 +4,7 @@ https://education.nationalgeographic.org/resource/sequoyah-and-creation-cherokee
 
 Born around 1770, Sequoyah was a self-taught polymath—a silversmith, blacksmith, and linguist who spoke only Cherokee and could read nothing. After witnessing the strategic disadvantage of those without a written language during the War of 1812, he spent 12 years refining an 85-character syllabary. The Cherokee Nation formally adopted it in 1825, and within a few years it powered the *Cherokee Phoenix*—the first bilingual newspaper in U.S. history. His work achieved nearly 100% literacy for the Cherokee Nation within 25 years and eventually inspired 21 other scripts for 65 languages worldwide.
 
-Project Sequoyah is an open-source initiative to return creative and financial sovereignty to the individual through "Non-Custodial AI" — showing that capable AI is already within reach for anyone, without subscriptions, API costs, or the environmental burden of routing every task through a data center.
+The Sequoyah Project is an open-source initiative to return creative and financial sovereignty to the individual through "Non-Custodial AI" — showing that capable AI is already within reach for anyone, without subscriptions, API costs, or the environmental burden of routing every task through a data center.
 
 ---
 
